@@ -24,11 +24,3 @@ const mul = (x,y) =>{
 }
 mul(9,6);
 
-
-//Division
-
-const div = (x,y) =>{
-    let div = x/y;
-    console.log(div);
-}
-div(54,6);
